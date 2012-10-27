@@ -10,6 +10,6 @@ url = "https://github.com/hyperic/sigar"
 maintainer = "Peter Drahoš"
 
 depends = {
-	"lua >= 5.1"
+	"lua ~> 5.1"
 }
 
